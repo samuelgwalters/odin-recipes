@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes is a test website project by Sam Walters for the Odin Project
